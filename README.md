@@ -1,3 +1,5 @@
 # ClassRosterCPP
 ## Details
-- WGU C++ app for programming fundamentals
+- C++
+- WGU class project 
+- prints out a class roster report on terminal
